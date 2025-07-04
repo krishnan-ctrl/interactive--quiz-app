@@ -95,24 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Created with ❤️ by Krishnan
-```
 
-This README includes:
-
-1. **Project title and visual placeholder** 
-2. **Key features** with emoji icons
-3. **Technology stack** used
-4. **Installation instructions**
-5. **Usage guide**
-6. **Customization options** with code examples
-7. **Project structure**
-8. **Future enhancement ideas**
-9. **License information**
-
-To use this README:
-1. Save it as `README.md` in your project folder
-2. Replace placeholder text (like "Krishnan") with your information
-3. Add a real screenshot (replace the placeholder URL)
-4. Customize any sections as needed
-
-The emojis and clear structure make it visually appealing and easy to read on GitHub or other platforms.
