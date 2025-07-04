@@ -99,7 +99,7 @@ Created with ❤️ by Krishnan
 
 This README includes:
 
-1. **Project title and visual placeholder** (replace with actual screenshot)
+1. **Project title and visual placeholder** 
 2. **Key features** with emoji icons
 3. **Technology stack** used
 4. **Installation instructions**
